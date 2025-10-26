@@ -1,0 +1,1 @@
+{ATI Technologies Inc./AMD Radeon RX 6700 XT/4.6.0 Core Profile Context 24.20.52.250106}=SUPPORTED
